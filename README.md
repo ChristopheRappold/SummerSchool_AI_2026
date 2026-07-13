@@ -7,7 +7,23 @@ Jupyter notebooks for the session of "Escuela de Verano IA y Conocimiento Abiert
 
 ## Installation for the requirements
 
-The install script can be used to make sure that the the packages in the requirements are installed. It assumes uv or conda to be already installed.
+The packages in the requirements file will be needed, it assumes conda to be already installed.
+two files: one for gpu : gpu_environment.yml, one for cpu : cpu_environment.yml
+Select the one you will use, and copy it into simply environment.yml
+Example :
+
+```
+cp gpu_environment.yml environment.yml
+```
+
+Then you create your environment:
+```
+conda env create -f environment.yml
+```
+Finally the activation:
+```
+conda activate CourseAI
+```
 
 ## Acknowledgments
 
