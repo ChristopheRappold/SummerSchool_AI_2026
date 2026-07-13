@@ -1,4 +1,7 @@
 # SummerSchool_AI_2026
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristopheRappold/SummerSchool_AI_2026/main)
+
 Jupyter notebooks for the session of "Escuela de Verano IA y Conocimiento Abierto del CSIC"
 
 1. Binary classification tutorial: H -> ZZ -> 4 leptons
