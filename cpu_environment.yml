@@ -19,4 +19,4 @@ dependencies:
 - tqdm >=4.68.4,<5
 - pillow >=12.3.0,<13
 - requests >=2.34.2,<3
-
+- ffmpeg
